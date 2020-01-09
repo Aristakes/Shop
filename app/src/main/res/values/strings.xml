@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string-array name="stringArrayForSpiner">
+        <item>Test1</item>
+        <item>Test2</item>
+    </string-array>
+</resources>
